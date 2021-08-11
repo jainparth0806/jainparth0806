@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 💬 Ask me about **C, C++, HYML,CSS, JavaScript, React**
+- 💬 Ask me about **C, C++, HTML,CSS, JavaScript, React**
 
 - 📫 How to reach me **jainparth0806@gmail.com**
 
